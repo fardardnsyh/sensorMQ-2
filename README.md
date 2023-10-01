@@ -1,6 +1,6 @@
 # sensorMQ-2
 ![sensorMQ-2](https://socialify.git.ci/fardardnsyh/sensorMQ-2/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
-<p id="description">Asensor MQ-2 make LCD dan Buzzer dan kipas
+<p id="description">A sensor MQ-2 make LCD dan Buzzer dan kipas
 
 
 <h2>💻 Built with</h2>
